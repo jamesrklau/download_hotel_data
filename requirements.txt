@@ -1,0 +1,8 @@
+bs4
+pandas
+selenium
+webdriver_manager
+boto3
+s3fs
+tqdm
+google-auth
